@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Acleda/Desktop/GitHub/MLflow/mlruns/815220210371503167/a6b49c7590f145a095acc5f40a28635b/artifacts
+end_time: 1679282408018
+entry_point_name: ''
+experiment_id: '815220210371503167'
+lifecycle_stage: active
+run_id: a6b49c7590f145a095acc5f40a28635b
+run_name: languid-shoat-357
+run_uuid: a6b49c7590f145a095acc5f40a28635b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679282403975
+status: 3
+tags: []
+user_id: Acleda

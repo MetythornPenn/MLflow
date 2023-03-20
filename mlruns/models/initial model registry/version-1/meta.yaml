@@ -1,0 +1,12 @@
+creation_timestamp: 1679283458178
+current_stage: None
+description: ''
+last_updated_timestamp: 1679283458178
+name: initial model registry
+run_id: 86a6c8179312427fb563d27940faa6b4
+run_link: ''
+source: file:///c:/Users/Acleda/Desktop/GitHub/MLflow/mlruns/744612510884247850/86a6c8179312427fb563d27940faa6b4/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

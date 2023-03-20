@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Acleda/Desktop/GitHub/MLflow/mlruns/744612510884247850/86a6c8179312427fb563d27940faa6b4/artifacts
+end_time: 1679282114552
+entry_point_name: ''
+experiment_id: '744612510884247850'
+lifecycle_stage: active
+run_id: 86a6c8179312427fb563d27940faa6b4
+run_name: inquisitive-yak-955
+run_uuid: 86a6c8179312427fb563d27940faa6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679282110580
+status: 4
+tags: []
+user_id: Acleda

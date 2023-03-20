@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Acleda/Desktop/GitHub/MLflow/mlruns/744612510884247850/25b2ee99f57547539aea44b459a37240/artifacts
+end_time: 1679282350480
+entry_point_name: ''
+experiment_id: '744612510884247850'
+lifecycle_stage: active
+run_id: 25b2ee99f57547539aea44b459a37240
+run_name: resilient-panda-8
+run_uuid: 25b2ee99f57547539aea44b459a37240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679282346346
+status: 3
+tags: []
+user_id: Acleda
